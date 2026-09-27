@@ -5,7 +5,6 @@ pypdf
 chromadb
 sentence-transformers
 requests
-python-jose[cryptography]
-passlib[bcrypt]
-bcrypt
 PyJWT
+pwdlib
+bcrypt
