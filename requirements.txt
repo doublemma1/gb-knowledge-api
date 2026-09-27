@@ -6,5 +6,6 @@ chromadb
 sentence-transformers
 requests
 PyJWT
-pwdlib
+pwdlib[argon2]
+argon2-cffi
 bcrypt
